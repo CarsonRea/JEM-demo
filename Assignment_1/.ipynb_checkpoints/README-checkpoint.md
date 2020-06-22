@@ -1,5 +1,6 @@
-# Journal of Econometric Methods
-## Teaching Corner
+# Econ 521 - Econometrics Methods I
+## Emory University
+### Department of Economics
 
 **Data Source**: [Professor Bruce Hansen's Webpage](http://www.ssc.wisc.edu/~bhansen/econometrics/)
 
